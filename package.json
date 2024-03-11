@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "A straightforward package for creating a WhatsApp bot using whatsapp-web.js",
+  "main": "index.js",
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
+  "author": "hypensterisk",
+  "license": "MIT"
+}
